@@ -17,7 +17,7 @@ const CONFIG_APP = {
     //    Jika diisi: pilihan klien tersimpan otomatis ke Google Sheet, batas waktu dicek
     //    oleh server, dan link ke klien menjadi pendek (?c=KODE).
     //    Jika dikosongkan (""): aplikasi berjalan seperti biasa tanpa server.
-    urlServer: https://script.google.com/macros/s/AKfycbwgO_NERivQc-NnWSFovHA8TRws8LzI79ysOGR3ul7DI4r5bXmwtDJA7xhgMyJrvU8bDw/exec
+    urlServer: "https://script.google.com/macros/s/AKfycbyrgzlFzCa_EZuWSPRCp6TKomxmD1PD_4-zzX98Oywt8GjCIiJG_yz9mpgizJeoqF02dg/exec",
 
     // 4. Nomor WA admin (penerima list foto). Format 628xxx.
     //    Jika mode server aktif, nomor ini bisa diubah dari generatorLink (Pengaturan Studio)
